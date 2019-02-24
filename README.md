@@ -17,3 +17,7 @@ cd target
 java -jar hoge-thorntail.jar 
 ```
 
+### Browse
+
+http://localhost:8080
+
