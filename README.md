@@ -1,8 +1,7 @@
 # thorntail-example-app
 A simple application of thorntail with JAX-RS, CDI, JPA 
 
-mvn package
-**This is just my Learning**```
+**This is just my learning**```
 
 ### Build
 
